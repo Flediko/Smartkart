@@ -1,6 +1,0 @@
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\db\DatabaseHandler.java
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\main\Main.java
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\model\Student.java
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\model\User.java
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\server\WebServer.java
-C:\Users\GECPL\Desktop\daa_app\Attendanceapp\src\ui\LoginUI.java
